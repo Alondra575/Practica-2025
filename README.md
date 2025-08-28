@@ -3,7 +3,15 @@
 
 <h1>Perfil de programador</h1>
 <br>
-<img src=alt="">
+ <!--
+        Se añaden los atributos de ancho (width) y alto (height)
+        directamente en la etiqueta <img> para que la imagen se redimensione
+        sin necesidad de CSS externo o en línea.
+    -->
+    <img src="https://static.vecteezy.com/system/resources/previews/003/704/390/non_2x/woman-as-programmer-free-vector.jpg" 
+         alt="Una mujer programadora trabajando en su escritorio." 
+         width="400" height="auto">
+    
 <br>
 <p>
     <b>Alondra Antonella De Lourdes Miranda Ramírez</b>, estudiante de la carrera de Programación
